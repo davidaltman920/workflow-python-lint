@@ -1,8 +1,10 @@
-def poorly_formatted(x,y):
-    if x>y:return x
+def poorly_formatted(x, y):
+    if x > y:
+        return x
     else:
-            return y
+        return y
 
-def another_function( a, b ):
-    result=a+b
+
+def another_function(a, b):
+    result = a + b
     return result
